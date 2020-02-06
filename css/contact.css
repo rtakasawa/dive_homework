@@ -1,0 +1,27 @@
+.contact tr{
+  height: 7rem;
+}
+
+.contact th{
+  width: 150px;
+  padding: 30px;
+  text-align: right;
+}
+
+.inputs {
+  width: 480px;
+}
+
+.button{
+  text-align: center;
+}
+
+.send {
+  color: white;
+  background: #4169E1;
+  margin-bottom: 50px;
+}
+
+.send:hover {
+  opacity: 0.6;
+}
